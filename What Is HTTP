@@ -1,0 +1,18 @@
+HTTP (Hypertext Transfer Protocol) is the communication protocol used by web browsers and servers to exchange information.
+
+When you visit a website:
+Your browser sends a request to a web server.
+The server processes the request.
+The server sends a response.
+Your browser displays or uses the response.
+
+HTTP vs HTTP
+HTTP
+Transfers web messages
+Data isn't protected by HTTP encryption itself
+Commonly port 80
+
+HTTPS
+HTTP over an encrypted TLS connection
+Protects confidentiality and integrity in transit
+Commonly port 443
