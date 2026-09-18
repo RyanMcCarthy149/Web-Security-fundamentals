@@ -1,0 +1,8 @@
+HTTP/1.1
+Text-based requests and responses. You will frequently see this format when learning with Burp Suite.
+
+HTTP/2
+Introduces binary framing, multiplexing, and other performance improvements. Requests are not represented on the wire in exactly the same way as HTTP/1.1.
+
+HTTP/
+Runs over QUIC, which uses UDP, rather than TCP as the underlying transport protocol.
